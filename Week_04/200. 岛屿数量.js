@@ -1,4 +1,4 @@
-// 这题很多有意思。以前碰到类似的都不知道怎么做，现在发现好简单，加油
+// 这题很有意思。以前碰到类似的都不知道怎么做，现在发现好简单，加油
 var numIslands = function (grid) {
   const len = grid.length
   if (len === 0) return 0
